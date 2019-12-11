@@ -1,0 +1,13 @@
+{
+	"author": "Wumbaloo",
+	"version": "1.0",
+	"server_scripts": [
+		"server/server.lua",
+		"positions.lua"
+	],
+	"client_scripts": [
+		"client/client.lua"
+	],
+	"files": [
+	]
+}
